@@ -71,7 +71,7 @@ learning about everything there is to learn.
 # INTERESTS 😍
 
 * Music 🎵 🎶
-* amusement 🎡 🎢
+* Musement 🎡 🎢
 * Story 📒 
 * Sea 🐬⛵️ ⚓️ 
 
