@@ -15,9 +15,6 @@ Full stack web development using the following:
 * Database : Postgresql
 * Testing : Test Drive Development (TDD) - Jest - Test coverage 
 
-### Familiar:
-
-
 ### Interested:
 
 learning about everything there is to learn.
@@ -41,11 +38,6 @@ learning about everything there is to learn.
  
 --- 
 
-
-# EXPERIENCE 👌
-
-
----
 
 
 
