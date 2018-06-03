@@ -39,7 +39,13 @@ learning about everything there is to learn.
 --- 
 
 
+# Employment History
 
+- mentor in free code camp | Gaza Sky Geeks
+November 2017 - Present
+
+- Technology Teacher | Education Tomorrow's pioneers center
+October 2014 - November 2017
 
 
 # EDUCATION 🎓
