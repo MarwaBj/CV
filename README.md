@@ -69,11 +69,11 @@ October 2014 - November 2017
 
 # LINKS 🔗
 
-[linkedin](https://www.linkedin.com/in/marwa-bj-821b6a138/)  
+[linkedin](https://www.linkedin.com/in/Marwa7mad)  
 
 [twitter](https://twitter.com/Negmah95?lang=ar)  
 
-[facebook](https://www.facebook.com/profile.php?id=100004986587086)  
+[facebook](https://www.facebook.com/Marwa7mad)  
 
 
 ---
