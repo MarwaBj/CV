@@ -1,6 +1,6 @@
 # Marwa AlBeltaji
 
-I am a full stack web developer✌️ who likes to learn everything new in technology 😍. my goal is to become awesome at coding and solving any proplem 😎💪.
+I am a full stack web developer✌️ who likes to learn everything new in technology 😍. my goal is to become awesome at coding and solving any proplem 😎💪 also to be a good entrepreneur😎 and make my startup succeed💪 .
 
 ---
 
@@ -8,12 +8,20 @@ I am a full stack web developer✌️ who likes to learn everything new in techn
 
 ## SKILLS ✅ 
 
-### Proficient: 
+### Coding: 
 Full stack web development using the following:
 * Front end : Html5 - css3 - react.js  - redux.js
 * Back end : node.js - Express.js -  handelbars.js
 * Database : Postgresql
 * Testing : Test Drive Development (TDD) - Jest - Test coverage 
+
+### Marketing 
+* Social Media Accounts Management
+
+### Business
+* Team leader
+* Financial and investment
+* Business Development
 
 ### Interested:
 
@@ -41,12 +49,16 @@ learning about everything there is to learn.
 
 # Employment History
 
-- mentor in free code camp | Gaza Sky Geeks
-November 2017 - Present
+- CEO and Co Founder |Hera Startup
+April 2018 - Present
+
+- mentor in coding for everyone camp | Gaza Sky Geeks
+November 2017 - April 2018 
 
 - Technology Teacher | Education Tomorrow's pioneers center
 October 2014 - November 2017
 
+--- 
 
 # EDUCATION 🎓
 
@@ -59,7 +71,7 @@ October 2014 - November 2017
 
 [linkedin](https://www.linkedin.com/in/marwa-bj-821b6a138/)  
 
-[tweeter](https://twitter.com/Negmah95?lang=ar)  
+[twitter](https://twitter.com/Negmah95?lang=ar)  
 
 [facebook](https://www.facebook.com/profile.php?id=100004986587086)  
 
@@ -70,8 +82,9 @@ October 2014 - November 2017
 
 * Music 🎵 🎶
 * Amusement Parks 🎡 🎢
-* Story 📒 
 * Sea 🐬⛵️ ⚓️ 
+* Story 📒 
+
 
 
 
